@@ -3,7 +3,7 @@ name: Trigger Vercel Deploy
 on:
   push:
     branches:
-      - jawa
+      - main
 
 jobs:
   trigger:
